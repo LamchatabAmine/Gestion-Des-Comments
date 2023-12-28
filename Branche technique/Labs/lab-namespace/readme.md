@@ -19,8 +19,9 @@ Organisez les fichiers Laravel en sous-dossiers à l'aide namespaces
 
 ## Références 
 
-[https://www.php.net/manual/en/language.namespaces.php](https://www.php.net/manual/en/language.namespaces.php)
-[https://laravel.com/docs/10.x](https://laravel.com/docs/10.x)
+-   [https://www.php.net/manual/en/language.namespaces.php](https://www.php.net/manual/en/language.namespaces.php)
+
+-   [https://laravel.com/docs/10.x](https://laravel.com/docs/10.x)
 
 
 
